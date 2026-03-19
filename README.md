@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kanatri — Ahmad Kamal Portfolio
 
-## Getting Started
+Personal portfolio for **Ahmad Kamal**, Project Architect & Interior Designer with 9 years of experience across Saudi Arabia, Turkey, Syria, and Jordan.
 
-First, run the development server:
+## 🔗 Live Site
+[kanatri.com](https://kanatri.com)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👤 About
+Ahmad Kamal is an Architect and 3D Visualizer, graduated in 2018 from Al-Ahliyya Amman University (2nd in class). Specializes in large-scale architectural, interior, and visualization projects across the Middle East.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Services
+- Architectural Design (residential, commercial, mixed-use)
+- 3D Visualization & Rendering (3ds Max, SketchUp, Lumion, D5 Render)
+- Interior Design & Fit-out
+- Project Management
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🏗 Selected Projects
+- Al Dandashi Villa — Turkey, Mersin
+- The Chedi Hegra — Saudi Arabia, AlUla
+- Ruby Jewelry Showroom — Saudi Arabia, Jeddah
+- Ms.Ghader Mediterranean Villa — Saudi Arabia, Jeddah
+- Al Bab Industrial City Square — Syria
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚙️ Built With
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contact
+- Email: info@kanatri.com
+- Instagram: [@arc.ahmadkamal](https://www.instagram.com/arc.ahmadkamal/)
